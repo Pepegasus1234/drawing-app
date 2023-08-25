@@ -8,6 +8,7 @@ https://nodejs.org/ru
 Win+R --> cmd --> Переходим в папку проекта и запускаем проект командой "npm run dev"
 
 ![image](https://github.com/Pepegasus1234/drawing-app/assets/104087923/c2e4aae6-4948-483e-a5df-bb80658e30d5)
+
 После открываем в браузере адрес указанный в поле "Local:". В нашем случае это: http://localhost:5173/
 
 Веб-страница проекта будет выглядеть так:
